@@ -1,7 +1,7 @@
 ---
-path: "/my-first-blog"
+path: "/setup-your-website"
 date: "2020-09-30"
-title: "Setup your Website"
+title: "Setup your Website on oracle free server"
 tags: ['gatsby', 'blog']
 description: "Setup of your website on oracle free server. "
 ---

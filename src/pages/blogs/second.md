@@ -1,7 +1,7 @@
 ---
-path: "/my-second-blog"
+path: "/fflate-usage"
 date: "2020-10-02"
-title: "Using fflate to gzip code from frontend"
+title: "Using fflate to gzip"
 tags: ['gatsby', 'blog', 'fflate']
 description: "Using the fflate library to gzip contents"
 ---
