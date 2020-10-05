@@ -9,7 +9,7 @@ description: "Setup of your website on oracle free server. "
 
 Hello Everyone, Wassup. So finally a comeback. My old site https://www.simranraj.com is no more because I forgot the renewal. Moreover, in between so many things happened a one year long gap all the details are lost.I am such a careless person you see.  😢 So finally,I am back (this time a bit organised and careful) with my new website appearance ta da........yay yay I can hear some claps in the background. 😜  It should keep going. uhmmm uhmmm . 😂 I am super excited to write some blogs for you all technical as well as life related stuffs. 
 
-I know you all have missed me, the same way I missed you. This post is basically related to the setup of this website. 😍 
+I know you all have missed me, the same way I missed you. This post is basically related to the setup of a basic website on the free oracle server. 😍 
 
 I will be very happy to share the information with you all which I gathered from internet and from my friends in setting up with this website. I am really thankful for having such techie friends who have helped me if I ever get stuck and obviously internet which saves me at the last moment.Lets begin then after this joyous acknowledgement step by step for the setup of your mark on the WWW.
 

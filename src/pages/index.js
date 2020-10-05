@@ -9,7 +9,7 @@ import "../styles/global.css"
 
 const IndexPage = () => (
   <Layout >
-     <ThemeToggler>
+     {/* <ThemeToggler>
         {({ theme, toggleTheme }) => (
           <label>
             <input
@@ -20,7 +20,7 @@ const IndexPage = () => (
             Dark mode
           </label>
         )}
-      </ThemeToggler>
+      </ThemeToggler> */}
     <SEO title="Home" />
     <div className="container">
     <div className="img-container">
