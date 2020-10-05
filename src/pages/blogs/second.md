@@ -71,7 +71,7 @@ This is how the payload looks like after after compressing the html string.
 
 Follow the documentation of fflate here for better usage and understanding . [`Documentaion`](https://github.com/101arrowz/fflate/blob/master/docs/README.md)
 
-At last keeping up at pace is more important in todays world and if the ouput is taking less time then the customers or users are more impresses and happy to use.
+At last keeping up at pace is more important in todays world and if the output is taking less time then the customers or users are more impressed and happy to use our application.
 A network performing at optimum speed is not only essential for business success, but also digital transformation. Without a fast and agile network, digital transformation efforts would stop entirely causing your business to fall behind.
 
 
