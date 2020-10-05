@@ -1,6 +1,6 @@
 ---
 path: "/my-second-blog"
-date: "2020-02-05"
+date: "2020-10-02"
 title: "Using fflate to gzip code from frontend"
 tags: ['gatsby', 'blog', 'fflate']
 description: "Using the fflate library to gzip contents"
