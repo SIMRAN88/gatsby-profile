@@ -1,7 +1,7 @@
 ---
 path: "/setup-your-website"
-date: "2020-09-30"
-title: "Setup your Website on oracle free server"
+date: "2020-07-17"
+title: "Setup your Website on free oracle server"
 tags: ['gatsby', 'blog']
 description: "Setup of your website on oracle free server. "
 ---
@@ -55,4 +55,4 @@ In the end you will be getting information related to your WordPress username, p
 
 Here we can see how to map your public IP with your domain name. Inside your dashboard, inside domain go to your dns records section and inside the Type A  under IPv4 Address add your public IP which is up and running and thus the mapping is done. So when you hit the domain you will be redirected to the page you will be publishing.
 
-I will come up with more technical blogs and some utility codes for you guys. Stay tuned. If you have any issues please reach out to me, I will be really happy if I could help.Have a nice day.  😘 
+I will come up with more technical blogs and some utility codes for you guys. Stay tuned. If you have any issues please reach out to me, I will be really happy if I could help.Have a nice day.
