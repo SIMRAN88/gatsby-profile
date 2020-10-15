@@ -29,7 +29,10 @@ const Layout = ({ children }) => {
       <div
         style={{
           margin: `0 auto`,
-          maxWidth: 960,
+          width: '100%',
+          height:'100%',
+          position:`absolute`,
+          overflow:`hidden`,
           padding: `0 1.0875rem 1.45rem`,
           backgroundColor: 'var(--bg)',
           color: 'var(--textNormal)',
