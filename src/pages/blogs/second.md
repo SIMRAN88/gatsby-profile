@@ -1,9 +1,9 @@
 ---
-path: "/fflate-usage"
+path: "/gzip-in-browser-before-uploading-to-S3"
 date: "2020-10-02"
-title: "Using fflate to gzip"
+title: "Gzip in browser before uploading to S3"
 tags: ['gatsby', 'blog', 'fflate']
-description: "Using the fflate library to gzip contents"
+description: "Using the fflate library to Gzip in browser before uploading to S3"
 ---
 
 Hello Everyone! Hope you all are fine and taking care of yourself and your families. It is very important to follow the SMS rule S-Sanitize, M-Masks and S-Social Distance. Wish everyone a healthy life.
