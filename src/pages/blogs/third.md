@@ -1,5 +1,5 @@
 ---
-path: "/hacktoberfest-contributing to open source"
+path: "/hacktoberfest-contributing-to-open-source"
 date: "2021-10-26"
 title: "Hacktoberfest-Contributing to open source"
 tags: ['hacktoberfest', 'blog', 'gatsby', 'digitalocean', 'github','open-source']
@@ -37,6 +37,6 @@ Talking about how you can start your **hacktoberfest** journey as a participant.
  7. Get yourself ***assigned to the issue*** so that no one else takes it up.
  8. Once you have fixed the issue raise a PR and **mention the issue link in the PR description** so that it will be linked to the issue.
  9. You will have to raise ***4 valid PRs*** that should have ***hacktoberfest-accepted*** label to earn the swags.
- 9.  Make sure the PRs are merged by the end of the month.
+ 10.  Make sure the PRs are merged by the end of the month.
 
 ***Lets contribute. Happy Coding !*** 
