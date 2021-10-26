@@ -3,7 +3,7 @@ path: "/hacktoberfest-contributing to open source"
 date: "2021-10-26"
 title: "Hacktoberfest-Contributing to open source"
 tags: ['hacktoberfest', 'blog', 'gatsby', 'digitalocean', 'github','open-source']
-description: "Hacktoberfest-Contributing to open source"
+description: "Contribute to open source github repositories and earn swags"
 ---
 
 Hi There! Hope everyone is doing good and taking care.
