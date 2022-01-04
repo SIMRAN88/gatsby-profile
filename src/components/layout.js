@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
           width: '100%',
           height:'100%',
           position:`absolute`,
-          overflow:`hidden`,
+          overflow:`auto`,
           padding: `0 1.0875rem 1.45rem`,
           backgroundColor: 'var(--bg)',
           color: 'var(--textNormal)',

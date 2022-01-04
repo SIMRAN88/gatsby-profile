@@ -1,6 +1,29 @@
 .card {
   margin: 15px;
 }
+@media (min-width:320px)  { .card{
+  width: 320px;
+} }
+@media (min-width:480px)  { .card{
+  width:480px;
+} }
+@media (min-width:600px)  { .card{
+  width: 600px;
+} }
+@media (min-width:801px)  { .card{
+  width:800px;
+} }
+@media (min-width:1025px) { .card{
+  width:500px;
+} }
+@media (min-width:1281px) {.card{
+  width: 540px;
+} }
+
+.post{
+  display: flex;
+  flex-wrap: wrap;
+}
 .container {
   text-align: center;
 }
