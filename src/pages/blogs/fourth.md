@@ -1,5 +1,5 @@
 ---
-path: "/comments-the-life-saviour"
+path: "/commenting-code"
 date: "2022-01-04"
 title: "Code also has emotions. Lets comment only when required."
 tags: ['gatsby', 'blog', 'javascript', 'typescript', 'bestPractices', 'comments']
