@@ -1,6 +1,6 @@
 ---
 path: "/comments-the-life-saviour"
-date: "2021-12-26"
+date: "2022-01-04"
 title: "Code also has emotions. Lets comment only when required."
 tags: ['gatsby', 'blog', 'javascript', 'typescript', 'bestPractices', 'comments']
 description: "Commenting a code only when required."
