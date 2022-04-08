@@ -28,16 +28,17 @@ Here comes the solution TADA
 
 ![i am worthy](https://static2.srcdn.com/wordpress/wp-content/uploads/2019/05/captain-america-mjolnir.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5)
 
-**Module Federation - I am worthy (want to know why)**
+## **Module Federation - I am worthy (want to know why)**
 
 - scalable
 - convenient
-- feasible
+- feasable
 - profitable
 - super dynamic
 - open source
 
-**What is Module Federation?**
+## **What is Module Federation?**
+
 
 - import code from others' build, that too at runtime
 - share vendor code dynamically at runtime
